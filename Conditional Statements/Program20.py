@@ -1,7 +1,7 @@
 number = int(input("Enter a number to check a prime number: "))
-if number == 2 or number == 3 or number == 5 or number == 7:
+if number == 2 or number == 3 or number == 5 or number == 7 or number == 11:
     print("Prime number")
-elif number % 2 == 0 or number % 3 == 0 or number % 5 == 0 or number % 7 == 0:
+elif number % 2 == 0 or number % 3 == 0 or number % 5 == 0 or number % 7 == 0 or number % 11 == 0:
     print("Its not a prime number.")
 else:
     print("prime number.")
