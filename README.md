@@ -1,6 +1,6 @@
 # Python Programming Exercises
 
-This repository contains a set of Python exercises divided into two main categories: **Conditional Statements** and **Loops**. Each section is designed to reinforce key concepts in Python programming, ranging from basic control flow to more complex looping structures.
+This repository contains a set of Python exercises divided into two main categories: **Conditional Statements** and **Loops** and many more. Each section is designed to reinforce key concepts in Python programming, ranging from basic control flow to more complex looping structures.
 
 ## Table of Contents
 1. [Conditional Statements](#conditional-statements)
